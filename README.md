@@ -1,5 +1,3 @@
-CodeZhangBorui
+![](https://stats.deeptrain.net/user/CodeZhangBorui?theme=light)
 
-中国初中生，OIer，目前高一。
-
-<!--![My Github Metrics](https://app.codezhangborui.eu.org/github-metrics.svg)-->
+Senior High School Student in China. Now in Senior Grade 1.
